@@ -4,6 +4,9 @@
 
 Este repositorio contiene un análisis de la cobertura de los principales servicios públicos en Colombia para el año 2023. Se basa en la información proporcionada en una base de datos que muestra el porcentaje de cobertura de servicios como acueducto, alcantarillado, energía, gas y telefonía por regiones y departamentos.
 
+![image](https://github.com/user-attachments/assets/7a01ea84-765b-4db8-bcb7-3612eb66ba75)       ![image](https://github.com/user-attachments/assets/c0c9db6e-26df-4115-b462-8abbdc2286bc)
+
+
 ## Descripción
 
 El objetivo de este proyecto es visualizar las diferencias en la cobertura de servicios públicos entre las distintas regiones de Colombia. A través de gráficos y tablas, se observa cómo la electrificación ha avanzado más en comparación con otros servicios como el gas o el alcantarillado, especialmente en áreas rurales.
