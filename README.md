@@ -42,7 +42,7 @@ Los datos proporcionados sobre la cobertura de servicios públicos en Colombia y
    git clone https://github.com/Titania77/CoberturaServiciosColombia2023.git
 
 
-Aquí les dejo algunas pautas para que puedan tenerlas en cuenta a la hora de realizar un informe en POWER BI
+> ### 📋 ¡A continuación les dejo algunas pautas para tener en cuenta al realizar un informe en Power BI!
 ---
 
 # 📊 Pasos para Realizar un Informe Estructurado en Power BI
@@ -93,6 +93,9 @@ Aquí les dejo algunas pautas para que puedan tenerlas en cuenta a la hora de re
    - **Prueba de navegación**: Navega por el informe y verifica que todos los filtros, botones y tooltips funcionen correctamente.
    - **Publicación y exportación**: Publica el informe en la plataforma deseada (Power BI Service, PDF, PowerPoint) y verifica que sea accesible para tu audiencia.
 
----
+
+> ### 💡 Espero les sea de ayuda.  
+> 📂 Por favor, revisen los documentos adjuntos para que puedan tener una guía de aplicación.
+
 
 
